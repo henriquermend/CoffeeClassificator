@@ -1,0 +1,6 @@
+<key>NSCameraUsageDescription</key>
+<string>Este aplicativo precisa acessar a câmera para capturar fotos.</string>
+<key>NsMicrophoneUSageDescription</key>
+<string>Este aplicativo precisa acessar o microfone para apturar áudio.</string>
+<key>NSPhotoLibraryUsageDescription</key>
+<string>Este aplicativo precisa acessar a bibilioteca de fotos.</string>
