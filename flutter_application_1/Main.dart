@@ -1,5 +1,4 @@
 import 'dart:html';
-
 import 'package:tflite/tflite.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
