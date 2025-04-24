@@ -31,7 +31,7 @@ Uma aplicação Flutter voltada para a **classificação de grãos de café util
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/CoffeeClassificator.git
+   git clone https://github.com/henriquermend/CoffeeClassificator/flutter_application_1.git
    ```
 2. Instale as dependências:
    ```bash
@@ -63,12 +63,3 @@ Este app espera que você utilize um modelo `.tflite` treinado previamente e um 
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por [Seu Nome](https://github.com/seu-usuario) com ❤️ e muito café ☕.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
