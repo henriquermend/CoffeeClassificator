@@ -1,0 +1,5 @@
+{
+  "name": "Coffee Classificator",
+  "description": "Classificação Automática de Grãos de Café - Protótipo de Alta Fidelidade",
+  "requestFramePermissions": ["camera"]
+}
